@@ -1,0 +1,127 @@
+﻿
+/* 
+Make Infor CRM 8.4.03 look less garish
+Copyright 2020 Customer FX Corporation
+customerfx.com
+
+*/
+
+#mainnavContainer {
+    background-color: #4b71ab;
+}
+
+#navLogo {
+    background-color: #464646;
+}
+
+.tlk-Tree-Container {
+    border-bottom: 1px solid #4b71ab;
+}
+
+.inforFormButton.default {
+    background-color: #4b71ab;
+}
+
+#titlePane {
+    background-color: #4b71ab;
+}
+
+#GroupLookupButton > .dijitButtonNode {
+    background-color: #4b71ab;
+}
+
+    #GroupLookupButton > .dijitButtonNode:hover {
+        background-color: #4b71ab;
+    }
+
+.past-due-button .dijitButton > .dijitButtonNode {
+    background-color: #4b71ab !important;
+}
+
+#LogoPanel {
+    background: #4b71ab;
+    border-right: solid 1px #4b71ab;
+}
+
+.nav-bar-pane {
+    background-color: #4b71ab;
+}
+
+.nav-bar-item-current-page {
+    background-color: #3d5d8c;
+}
+
+.inforSoHoXi .dijitAccordionTitle, .inforSoHoXi .dijitAccordionInnerContainerSelected .dijitAccordionTitle {
+    background-color: #3d5d8c !important;
+}
+
+.mainContentHeader2 {
+    background-color: #4b71ab;
+}
+
+.activity-dialog .dhx_cal_header {
+    background-color: #4b71ab;
+}
+
+.dijitSplitter {
+    background-color: #4b71ab !important;
+}
+
+.inforSoHoXi .dijitAccordionInnerContainer {
+    background-color: #4b71ab !important;
+    border-bottom: 1px solid #3d5d8c;
+}
+
+.inforSoHoXi .dijitAccordionTitle {
+    background-color: #4b71ab !important;
+}
+
+.inforSoHoXi .dijitTabController {
+    background-color: #4b71ab !important;
+}
+
+.dijitTabListWrapper {
+    background-color: #4b71ab !important;
+}
+
+.inforSoHoXi .dijitTabActive, .inforSoHoXi .dijitTabChecked {
+    background-color: #4b71ab !important;
+}
+
+
+.inforSoHoXi .dijitTab, .inforSoHoXi .dijitTabHover {
+    background-color: #4b71ab !important;
+}
+
+.tws .tws-main-tab-buttons {
+    background-color: #4b71ab;
+}
+
+.tws .tws-tab-element div.tws-tab-view-header {
+    background-color: #4b71ab;
+}
+
+
+.tws-active-tab-button {
+    color: #4b71ab !important;
+}
+
+.tws-tab-button {
+    background-color: #4b71ab;
+}
+
+div .mainContentHeader {
+    background-color: #464646 !important;
+}
+
+.inforSoHoXi .dijitToolbar {
+    background-color: #464646;
+}
+
+div.task-pane-header {
+    background-color: #464646;
+}
+
+.task-pane-item > .dijitTitlePaneTitle {
+    background-color: #888;
+}
